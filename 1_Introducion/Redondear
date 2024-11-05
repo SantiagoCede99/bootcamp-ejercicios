@@ -1,0 +1,9 @@
+a = int(input("Ingrese num: "))
+b = int(input("Ingrese num: "))
+    
+divEnt=a//b
+divDec=a/b
+red=round(divDec,5)
+
+print(divEnt)
+print(red)

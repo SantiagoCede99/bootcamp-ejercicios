@@ -6,3 +6,4 @@ print((10 > 5) or (100<1000))
 
 # Not 
 print(not(True))
+
